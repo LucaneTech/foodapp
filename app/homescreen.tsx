@@ -9,7 +9,7 @@ const HomeScreen = ()=>{
   return(
     <SafeAreaView style ={styles.container}>
       <Text style = {styles.text}>
-         <Link href={'/(tabs)/recipes'}> Hello</Link>
+         <Link href={'/(tabs)/recipes'}> Hello wordl</Link>
       </Text>
     </SafeAreaView>
   )
